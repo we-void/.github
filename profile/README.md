@@ -1,6 +1,6 @@
 ## Hello, World! :wave:
 
-Welcome to WeVoid'r organization on GitHub. <br/>
+Welcome to the WeVoid organization on GitHub. <br/>
 We are a group of friends doing open-source and paid projects.
 
 * :books: CS graduates from [CSE, BUET](https://cse.buet.ac.bd)
